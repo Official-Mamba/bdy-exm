@@ -1,1 +1,1 @@
-// alert("Click On Sreen");
+alert("Click On Sreen");
